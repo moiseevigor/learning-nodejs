@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Learn NodeJS and noSQL. Grasp Scalability with Phusion Passenger.",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
